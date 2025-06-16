@@ -2,6 +2,8 @@
 
 This is an interactive Streamlit web application that predicts the risk of diabetes using clinical features. The underlying machine learning model is a Random Forest classifier trained on the well-known Pima Indians Diabetes dataset. The app includes intuitive input sliders, real-time predictions, explainability, and visual data analysis.
 
+![image](https://github.com/user-attachments/assets/c9867c5a-f528-4150-b901-ed470171128e)
+
 ---
 
 ## 🔍 Features
